@@ -8,6 +8,7 @@ public class Main {
         int middle = -1;
         int max = -1;
         int maxNew = -1;
+        int retro2 = -1000;
         boolean booMaxV = false;
         boolean booMaxK = false;
         boolean booMaxM = false;
