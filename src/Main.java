@@ -3,11 +3,11 @@ public class Main {
         int vasyaAge = 36;
         int katyaAge = 36;
         int mishaAge = 36;
-         int sergoAge =25;
+
         int min = -1;
         int middle = -1;
         int max = -1;
-        sergoAge=22;
+
         boolean booMaxV = false;
         boolean booMaxK = false;
         boolean booMaxM = false;
