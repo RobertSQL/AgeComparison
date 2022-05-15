@@ -10,7 +10,7 @@ public class Main {
         int maxNew = -1;
 
         int retro2 = -1000;
-
+ int retro3 = -1000;
         int retro = 1000;
 
         boolean booMaxV = false;
