@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int vasyaAge = 20;
-        int katyaAge = 20;
+        int katyaAge = 50;
         int mishaAge = 36;
 
         int min = -1;
