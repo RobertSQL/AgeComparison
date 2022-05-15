@@ -7,7 +7,7 @@ public class Main {
         int min = -1;
         int middle = -1;
         int max = -1;
-
+        int maxNew = -1;
         boolean booMaxV = false;
         boolean booMaxK = false;
         boolean booMaxM = false;
