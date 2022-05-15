@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int vasyaAge = 20;
+        int vasyaAge = 50;
         int katyaAge = 50;
         int mishaAge = 36;
 
